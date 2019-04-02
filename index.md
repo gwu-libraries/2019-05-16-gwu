@@ -7,7 +7,7 @@ country: "us"
 language: "en"  
 latlng: "38.899233,-77.048386" 
 humandate: "May 16-17, 2019"
-humantime: "9:00-4:30 pm
+humantime: "9:00-4:30 pm"
 startdate: 2019-05-16    
 enddate: 2019-05-17 
 instructor: ["Dan Kerchner, Megan Potterbusch, Laura Wrubel"]
