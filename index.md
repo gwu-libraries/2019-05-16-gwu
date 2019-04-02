@@ -1,9 +1,9 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "FIXME"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
+carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "George Washington University"      
-address: "NCLC, 1st Floor, Gelman Library, 2130 H St., NW, Washington, DC 20052"      # full street address of workshop 
+address: "NCLC, 1st Floor, Gelman Library, 2130 H St., NW, Washington, DC 20052"
 country: "us"    
 language: "en"  
 latlng: "38.899233,-77.048386" 
@@ -12,7 +12,7 @@ humantime: "9:00-4:30 pm
 startdate: 2019-05-16    
 enddate: 2019-05-17 
 instructor: ["Dan Kerchner, Megan Potterbusch, Laura Wrubel"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["kerchner@gwu.edu, lwrubel@gwu.edu, mpotterbusch@gwu.edu"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
