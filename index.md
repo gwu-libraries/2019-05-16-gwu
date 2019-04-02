@@ -1,7 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
-                      # Be sure to update the Carpentry type in _config.yml as well.  
+carpentry: "swc"
 venue: "George Washington University"      
 address: "NCLC, 1st Floor, Gelman Library, 2130 H St., NW, Washington, DC 20052"
 country: "us"    
