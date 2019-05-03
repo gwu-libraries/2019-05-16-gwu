@@ -11,7 +11,7 @@ humantime: "9:00-4:30 pm"
 startdate: 2019-05-16    
 enddate: 2019-05-17 
 instructor: ["Dan Kerchner, Megan Potterbusch, Laura Wrubel"]
-helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Will Bonnett, Steve Cherry, Zifan Huang, Jason Hurlburt, Mengqi Ji, Liem Nguyen, Monica Rigucci, Marco Suarez"]   # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["lwrubel@gwu.edu, kerchner@gwu.edu, mpotterbusch@gwu.edu"]
 collaborative_notes: http://pad.carpentries.org/2019-05-16-gwu
 eventbrite: 60254929115  # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
